@@ -1,0 +1,5 @@
+Name: Tamanappa Inde
+Role: QA Automation Engineer
+Skills: Java, Python, Selenium, Playwright, SQL, Gen AI
+Location: Pune MaharashtraExperience: 7 Years
+Experience: 7 Years
